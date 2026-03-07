@@ -22,7 +22,7 @@ La clase incluye:
 3. Abrir el navegador.
 4. Acceder a:
 
-http://localhost/practica-1
+http://192.168.1.20/desarrollo-web
 
 # Resultado esperado
 Mostrar en pantalla el nombre y correo del usuario utilizando los métodos getters.
