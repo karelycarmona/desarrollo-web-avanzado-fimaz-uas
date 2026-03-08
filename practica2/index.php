@@ -1,6 +1,6 @@
 <?php
 
-require_once "Admin.php";
+require_once 'Admin.php';
 
 $admin = new Admin("Karely", "karely@correo.com");
 
