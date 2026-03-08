@@ -26,5 +26,3 @@ class Usuario {
         $this->correo = $correo;
     }
 }
-
-?>
