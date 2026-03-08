@@ -1,6 +1,6 @@
 <?php
 
-require_once "Usuario.php"
+require_once 'Usuario.php';
   
 $usuario = new Usuario("Karely", "karely@gmail.com");
 
