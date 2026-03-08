@@ -8,4 +8,4 @@ echo "Nombre: " . $admin->getNombre() . "<br>";
 echo "Correo: " . $admin->getCorreo() . "<br>";
 echo "Rol: " . $admin->getRol();
 
-?>
+
